@@ -1,2 +1,2 @@
 # about_me
-Short introduction about New, Kian Boon
+Hosting site for personal landing page for New, Kian Boon
